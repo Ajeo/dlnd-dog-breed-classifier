@@ -13,6 +13,6 @@ In this project, I used CNNs to classify dogs breeds.
 
 1. Clone the project
 2. Run `jupyter notebook`
-3. Edit `dlnd_tv_script_generation.ipynb`
+3. Edit `dlnd-dog-breed-classifier.ipynb`
 
 **Note:** I suggest to train this model using GPU
